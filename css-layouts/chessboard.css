@@ -1,0 +1,28 @@
+#chessboard {
+  width: 500px;
+  margin: 0 auto;
+}
+
+#column-1 {
+  float: left;
+  width: 250px;
+}
+
+#column-2 {
+  float: right;
+  width: 250px;
+}
+
+.square-one {
+  box-sizing: border-box;
+  width: 50px;
+  padding: 50px;
+  background-color: brown;
+}
+
+.square-two {
+  box-sizing: border-box;
+  width: 50px;
+  padding: 50px;
+  background-color: beige;
+}
